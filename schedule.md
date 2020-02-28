@@ -9,7 +9,7 @@
 |[Lesson 3](https://duckduckgo.com)| February 10, 2020 | The Right to be Forgotten | [John Oliver](https://www.youtube.com/watch?v=r-ERajkMXw0), [GDPR Enumeration](https://gdpr-info.eu/art-17-gdpr/), [NPR](https://www.npr.org/2015/03/18/393643901/debate-should-the-u-s-adopt-the-right-to-be-forgotten-online) |
 |[Lesson 4](https://duckduckgo.com)| February 17, 2020 | Data Ownership and Privacy | NA |
 |[Lesson 5](https://duckduckgo.com)| February 24, 2020 | Digital Discourse | NA |
-|[Lesson 6](https://duckduckgo.com)| March 2, 2020 | NA | NA |
+|[Lesson 6](https://duckduckgo.com)| March 2, 2020 | Digital Discourse: Part Two | NA |
 |-| March 9, 2020 | Spring Recess | NA |
 |[Lesson 7](https://duckduckgo.com)| March 16, 2020 | NA | NA |
 |[Lesson 8](https://duckduckgo.com)| March 23, 2020 | NA | NA |
